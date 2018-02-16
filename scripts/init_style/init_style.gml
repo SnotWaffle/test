@@ -1,0 +1,9 @@
+global.BACKGROUND_COLOR=$96858F;
+global.TEXT_COLOR=c_white;
+global.BOTTOM_BAR_COLOR=$D5D5D5;
+global.BOTTOM_HL_COLOR=$9099A2;
+
+
+//6D7993
+global.TEXT_FONT=fBebas;
+global.TITLE_FONT=fBebas;
