@@ -10,3 +10,4 @@ image_loaded=false;
 text="";
 global.top_height=0;
 
+//Change to test git
